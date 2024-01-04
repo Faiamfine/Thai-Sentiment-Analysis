@@ -7,6 +7,21 @@ This project centers around sentiment analysis on Thai social media for three cl
 pip install -r requirements.txt
 
 ```
+## Runs
+For visulization
+```bash
+jupyter notebook visualization.ipynb
+
+```
+For model
+```bash
+jupyter notebook model.ipynb
+
+
+```
+## Prerequisites
+
+Python version 3.9
 
 ## Data source
 
